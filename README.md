@@ -1,4 +1,4 @@
-# Sentiment-Analysis-based-on-Natural-Language-Toolkit-NLTK-NLTK-
+# Sentiment-Analysis-based-on-Natural-Language-Toolkit-NLTK
 Sentiment Analysis based on Natural Language Toolkit (NLTK)（基于NLTK的情感分析）
 
 1.Crawldata.py is the code used to get reviews of Amazon products.
